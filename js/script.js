@@ -125,3 +125,4 @@ function eatSelf (head, array){
     }
     return false;
 }
+
